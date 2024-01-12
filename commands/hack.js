@@ -90,7 +90,7 @@ citel.reply("``` SUCCESSFULLY SENT DATA AND Connection disconnected```")
 
 await sleep(1000)
 
-            return citel.reply('*Sahan is Hacked your WhatsApp Successfuly*');
+            return citel.reply('*Sahan is Hacked your WhatsApp Successfuly_😈*');
 
         }
 
